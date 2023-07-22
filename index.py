@@ -7,7 +7,7 @@ from telegram import Bot, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import CommandHandler, MessageHandler, Filters, CallbackQueryHandler, Dispatcher
 
 
-TOKEN = "6011323594:AAFOtXPA9powyQJentZQ5OFto5QYDAy1MlM"
+TOKEN = "6274458564:AAHr_I4iQfTIA9LubgfwaJeD_FYaBSVEmsc"
 URL = "https://movies-downloader-bot-gules-xi.vercel.app"
 bot = Bot(TOKEN)
 
