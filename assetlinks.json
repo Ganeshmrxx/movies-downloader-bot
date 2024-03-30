@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.xplay.app",
+    "package_name": "com.g3store.test",
     "sha256_cert_fingerprints":
     ["95:1A:C1:30:37:AE:33:53:30:A4:EE:4E:18:C7:21:F6:F0:78:FA:6F:7D:02:FF:01:83:32:09:49:55:69:66:21"]
   }
